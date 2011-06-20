@@ -1,0 +1,43 @@
+S 683 Mid-Term Exam . Job Interview
+
+You can submit your answers to these questions in an email to me OR for extra credit of 10% answer these questions in a file along with your programing assignment and submit the answers using GITHub, when you submit the programming portion.   Each of these questions is worth 2.5 points for a total of 50 points.  Your programming test is worth 5 Point per part for a total of 50 points.  The entire exam is worth 100 points.
+
+Job Description
+
+Company XYZ is hiring an entry level PHP programmer to maintain and develop custom applications in PHP.   You will expected to be able to write object oriented PHP code, SQL queries, HTML, CSS, and Javascript/Jquery.  
+
+Applicants should be able to work in teams and should have experience using a version control system.   The ideal candidate should be familiar with new technologies like MongoDB/NoSQL databases, software design patterns, KISS, and DRY principles of software development.  Applicants should also have experience using the LINUX/UNIX command line.
+
+We are hiring an entry
+
+1.	What does the acronym KISS mean and how does following this make you a better computer programmer?
+Answer: Keep it simple stupid
+
+2.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
+Answer: don.t repeat yourself
+
+3.	What is the difference between a database like MongoDB and MySQL?
+Answer: MongoDB is a lot faster than mysql. 2. The old quary commands which is in sql is not in mongo.  Mongo database control is all in the programming code.  3. Where mysql is big in not repeating data, mongo lives on repetition.
+
+4.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it?
+Answer: 1. Create variables for a tag, attributes(array) in the tag and content.
+2. create a variable which I will use to concatenate the whole tag to print out later.
+3. now I will loop through the array and when I am done close the whole tag.
+
+5.	What software design pattern would you be demonstrating in in the above solution? 
+	Answer: A foreach loop
+
+6.	What version control system(s) have you used?
+	Answer: github
+
+7.	What is GitHub and have you ever used it? 
+	Answer: github is a way to work with a group of people and work on a program and at the same time keep tabs of who did what when. Yes.
+
+8.	What is the command to create a GIT repository
+	Answer: If I understand the question- mkdir a name, this is where all the work will reside.
+
+9.	What is the command to tell GIT to start tracking the file?
+	Answer: git init
+10.	What is the command to commit your changes to the GIT log?
+	Answer: git commit -m 'my first program'
+
